@@ -1,3 +1,5 @@
+# COFFEE_SHOP_SALES
+
 # Objective :-
 
 This project improves the coffee shop's analytical capabilities by utilizing Power BI Dashboard for sales information. The goal of analyzing coffee shop transaction data to get important insights regarding trends, patterns, product popularity  and provide actionable recommendations for improvement.
